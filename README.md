@@ -31,7 +31,7 @@ result: 64
 
 # Requirements
 * Windows
-* Visual Studio C++ (with __asm support x86)
+* Visual Studio C++ (x86 build)
 * MSVC compiler 
 
 # Note
