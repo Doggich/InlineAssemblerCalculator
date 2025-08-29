@@ -31,7 +31,8 @@ result: 64
 
 # Requirements
 * Windows
-* Visual Studio C++ (with __asm support x86, MSVS compiler)
+* Visual Studio C++ (with __asm support x86)
+* MSVC compiler 
 
 # Note
 * Integer-only calculator; negative numbers and floating-point numbers are not supported.
